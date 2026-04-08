@@ -1,6 +1,6 @@
 # Bite-Go 🍛
 
-🔗 --> Click To View in Browser : [Open in Browser: http://localhost:3000](http://localhost:3000)**
+🔗 --> Click To View in Browser : [Open in Browser: https://bite-go-pink.vercel.app](https://bite-go-pink.vercel.app)**
 
 Bite-Go is a full-stack web application for ordering authentic, fresh, and hot Indian food. Designed with a modern, responsive user interface and a robust backend, the application allows users to browse menus, manage a shopping cart, and securely checkout their food deliveries.
 
